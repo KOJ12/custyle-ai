@@ -54,16 +54,16 @@
 ## 🖼️ Screenshots & Demo
 
 ### 1. Homepage – Custyle at a glance
-![Custyle Homepage](docs/images/homepage.png)
+![Custyle Homepage](Custyle_Homepage.png)
 
 ### 2. Create with AI – Start from a prompt or photo
-![Custyle Create](docs/images/create.png)
+![Custyle Create](Custyle_CreatewithAI.png)
 
 ### 3. Interactive Design Process – Explore multiple variations
 ![Custyle Variations](docs/images/variations.png)
 
 ### 4. From Idea to Merch – Try-on & final merch ready to ship
-![Custyle Final Merch](docs/images/final-merch.png)
+![Custyle Final Merch](Custyle_From Idea to Merch.png)
 
 
 ---
