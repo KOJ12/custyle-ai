@@ -32,7 +32,7 @@
 
 ## 🔑 What Makes Custyle Different?
 
-- ⏱ **From idea to merch in 1 minutes** — No tools, no barriers, just instant creation.  
+- ⏱ **From idea to merch in minutes** — No tools, no barriers, just instant creation.  
 - 👩‍🎤 **Gen-Z first** — Built for self-expression, not logo-chasing mass fashion.  
 - 🌐 **AI × C2M synergy** — AI-generated designs flow directly into on-demand supply chains for global fulfillment.  
 - 🔄 **UGC-driven commerce** — Every user can be a designer, buyer, and seller in the same loop.  
