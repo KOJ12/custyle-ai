@@ -60,10 +60,10 @@
 ![Custyle Create](Custyle_CreatewithAI.png)
 
 ### 3. Interactive Design Process – Explore multiple variations
-![Custyle Variations](docs/images/variations.png)
+![Custyle Variations](Custyle_InteractiveDesigProcess.png)
 
 ### 4. From Idea to Merch – Try-on & final merch ready to ship
-![Custyle Final Merch](Custyle_From Idea to Merch.png)
+![Custyle Final Merch](Custyle_FromIdeatoMerch.png)
 
 
 ---
@@ -71,28 +71,26 @@
 ## 📖 About Custyle
 
 Custyle = **AI + C2M** → Personalized Merch at Scale.  
-We believe the future of retail is **personalized, experience-driven, and AI-powered**.  
+We believe the future of retail is **personalized, experience-driven, and AI-powered.**  
 
-🌍 [Official Website →](https://custyle.ai)
+Custyle is building the next-generation consumer platform where anyone can be both a **creator and a consumer** — turning imagination into merch at global scale.  
+
+🌍 [Official Website →](https://custyle.ai)  
+💬 [Join Discord →](https://discord.gg/7B52gKXx)  
+🐦 [Follow on Twitter →](https://x.com/custyleai)  
+📷 [See on Instagram →](https://www.instagram.com/custyle.ai)  
 
 ---
 
 ## 📌 Roadmap
 
-- [x] MVP launched with AI T-shirt creation  
-- [ ] Expand product catalog (hoodies, caps, tote bags)  
-- [ ] API for creators & brands  
-- [ ] Global launch & open ecosystem  
-
----
-
-## 🏷️ Tags
-
-`ai-merch-agent` `ai-fashion` `ai-tshirt` `custom-merch` `generative-ai`  
-`chat-to-create` `multi-agent-ai` `try-on-ai` `ai-fashion-platform`  
+- ✅ **Step 1: MVP Launch** — AI-powered T-shirt creation (completed)  
+- 🚀 **Step 2: Expand Catalog** — From tees to **hoodies, caps, totes, posters, and phone cases**  
+- 🔌 **Step 3: Open API** — Empower creators & brands with APIs for design, try-on, and fulfillment  
+- 🌍 **Step 4: Global Ecosystem** — Custyle as an open platform for creators, consumers, and supply chains worldwide  
+ 
 
 ---
 
 ## ⭐ Support
-
-If you believe in **personalization as the future of retail**, please give this repo a ⭐!  
+If you believe in **personalization as the future of retail**, please give this repo a ⭐ — it helps more people discover Custyle!  
